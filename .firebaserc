@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "doctors-portal-11594"
-  }
+    "default": "health-management-6cf66",
+    "development": "health-management-6cf66"
+  },
+  "targets": {}
 }
